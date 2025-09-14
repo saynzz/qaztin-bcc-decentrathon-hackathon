@@ -63,7 +63,7 @@ st.sidebar.image("assets/logo.png", width=150)
 st.sidebar.title("QazTin")
 st.sidebar.markdown("Персонализированные рекомендации на основе транзакций")
 
-st.title("📲 Push-уведомления для клиентов банка")
+st.title("Push-уведомления для клиентов банка")
 
 client_codes = get_client_codes()
 if not client_codes:
