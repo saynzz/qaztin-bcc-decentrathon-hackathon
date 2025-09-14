@@ -60,7 +60,7 @@ def generate_submission(client_codes):
 st.set_page_config(page_title="QazFinance Push Generator", layout="wide")
 
 st.sidebar.image("assets/logo.png", width=150)
-st.sidebar.title("QazFinance")
+st.sidebar.title("QazTin")
 st.sidebar.markdown("Персонализированные рекомендации на основе транзакций")
 
 st.title("📲 Push-уведомления для клиентов банка")
