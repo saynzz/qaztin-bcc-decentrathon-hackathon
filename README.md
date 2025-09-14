@@ -37,11 +37,14 @@ streamlit run app.py
 
 💙 Авторы
 
-Founder - Alexandr
-Developer - Valeriya
-Designer - Sofiya
+Founder - Alexandr.
+
+Developer - Valeriya.
+
+Designer - Sofiya.
 
 Команда QazTin · Хакатон BCC · Сделано с кайфом
+
 
 
 
