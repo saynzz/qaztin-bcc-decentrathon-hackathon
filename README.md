@@ -36,11 +36,13 @@ pip install -r requirements.txt
 streamlit run app.py
 
 💙 Авторы
+
 Founder - Alexandr
 Developer - Valeriya
 Designer - Sofiya
 
 Команда QazTin · Хакатон BCC · Сделано с кайфом
+
 
 
 
